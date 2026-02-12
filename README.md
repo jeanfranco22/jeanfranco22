@@ -2,13 +2,13 @@
 
 ### Front-End Developer building modern, scalable web applications with React & Next.js
 
-🚀 Building SaaS products with Next.js & PostgreSQL  
+🚀 Building products with Next.js & PostgreSQL  
 💡 Passionate about clean UI & scalable architecture  
 🌎 Based in Mexico 🇲🇽 | Open to remote opportunities  
 
 ---
 
-- 🔭 I’m currently working on **PowerGym — Token-based fitness SaaS platform**
+- 🔭 I’m currently working on **PowerGym — Token-based fitness platform**
 
 - 👨‍💻 Explore my work at:  
   https://portfolio-franco-6hir.vercel.app
