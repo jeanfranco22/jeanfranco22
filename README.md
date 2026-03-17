@@ -24,13 +24,27 @@ With a background in Clinical Nutrition, I bring analytical thinking, discipline
 I enjoy working with Git workflows, improving system architecture, and building real-world SaaS applications.
 
 ---
-
 ## 📫 Connect with Me
 
+<p align="left">
+
 <a href="https://www.linkedin.com/in/jean-franco-ferrer-mendez-62a572176" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-Jean%20Franco-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
+<a href="mailto:francoferrer.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://TU-PORTFOLIO.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="https://TU-CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
+</p>
 ---
 
 ## 🛠️ Languages and Tools
