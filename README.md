@@ -24,26 +24,25 @@ With a background in Clinical Nutrition, I bring analytical thinking, discipline
 I enjoy working with Git workflows, improving system architecture, and building real-world SaaS applications.
 
 ---
-## 📫 Connect with Me
+<h2 align="center">Contact</h2>
 
-<p align="left">
+<p align="center">
+  Open to collaborations, freelance opportunities and front-end roles.
+</p>
 
-<a href="https://www.linkedin.com/in/jean-franco-ferrer-mendez-62a572176" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Jean%20Franco-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:francoferrer.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://TU-PORTFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel" />
-</a>
-
-<a href="https://TU-CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=adobeacrobatreader" />
-</a>
-
+<p align="center">
+  <a href="https://TU-PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://TU-CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Open-Resume-1F6FEB?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jean-franco-ferrer-mendez-62a572176" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:francoferrer.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 ---
 
